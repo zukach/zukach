@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zurab</h1>
 <h3 align="center">A passionate full stack developer from Georgia</h3>
 
-- 🔭 I’m currently working on [Fantasy League](www.hamaki.live)
+- 🔭 I’m currently working on **Fantasy League Football**
 
 - 🌱 I’m currently learning **DevOps tools**
 
