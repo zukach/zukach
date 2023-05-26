@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fantasy League Football Website**
 
-- 🌱 I’m currently learning **DevOps tools**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zukach](https://github.com/zukach)
 
