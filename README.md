@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **zukachakhnashvili@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/zukach/picnic/blob/main/Zurab's%20resume.pdf](https://github.com/zukach/picnic/blob/main/Zurab's%20resume.pdf)
-
 - ⚡ Fun fact **I collect pencils...**
 
 <h3 align="left">Connect with me:</h3>
